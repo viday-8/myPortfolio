@@ -69,8 +69,8 @@ export const skillsData = [
      {
       projectTitle : "Tasty kitchen",
       img : kitchen,
-      gitLink : "https://github.com/viday-8/KYC/tree/master",
-      hostLink : "https://vidaytenalikyc.netlify.app/",
+      gitLink : "https://github.com/viday-8/tastyKitchen/tree/master",
+      hostLink : "https://vidaytastykitchen.netlify.app/",
       description : "TastyKitchen is a Swiggy-like food ordering web app where users can browse restaurants, view menus, and place orders with a simple and intuitive interface."
     }
   ]

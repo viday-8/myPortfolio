@@ -33,11 +33,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          Skilled frontend developer with expertise in HTML, CSS, and
-          JavaScript, delivering visually stunning and user-friendly web
-          interfaces. Collaborative team player, working closely with designers
-          and backend developers to create seamless and engaging user
-          experiences.
+         Creative and detail-oriented Frontend Developer with 3+ years of experience building responsive, modular and high-performance user interfaces using React.js, JavaScript, HTML, and CSS. Skilled in transforming complex requirements into user-friendly, accessible designs and performance. Actively engaged in the tech community through conducting frontend workshops, mentoring participants in hackathons, and leading technical interviews.
         </p>
       </div>
       <div className="grid md:grid-flow-col gap-6 lgl:gap-0 justify-between">
