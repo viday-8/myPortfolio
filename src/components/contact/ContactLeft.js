@@ -12,10 +12,10 @@ const ContactLeft = () => {
         Passionate and results-driven Frontend Developer with a strong foundation in writing clean,
          structured JavaScript code and hands-on experience building responsive,
           user-centric web applications using React. Currently seeking opportunities as a Frontend Developer
+          Phone: <span className="text-lightText">9876543212</span>
            or Software Engineer to contribute to impactful products and continue growing in a dynamic tech environment.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+91 6305518556</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email:{" "}
