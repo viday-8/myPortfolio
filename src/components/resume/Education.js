@@ -24,6 +24,12 @@ const Education = () => {
           <ResumeCard
             title="Intermediate-MPC"
             subTitle="Narayana Jr. College (2014 - 2016)"
+          <ResumeCard
+            title="Professional Development"
+            subTitle="Fixity Eductions"
+            result="CERT"
+            des="Specialized professional training and development programs to enhance technical and soft skills for career advancement."
+          />
             result="BZA"
             des="Higher education completed in MPC with a good result and successfully finished and qualified few of the enterance exams."
           />
